@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[nicolesiembor]]></title>
+        <description><![CDATA[nicolesiembor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 17:43:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Weddings:  Modern. Fun. Timeless]]></title>
+            <description><![CDATA[<article><h1>Weddings:  Modern. Fun. Timeless</h1><p>Your wedding is full of irreplaceable memories. The atmosphere is captivating, and you are the star. My job is to freeze in time the moments that take your breath away, so the magic can be cherished for generations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e290d5de2ddc2c971aac04d81d703927a4144d63.jpg"></article>]]></description>
+            <link>undefinedweddings-modern-fun-timeless/index.html</link>
+            <guid isPermaLink="false">5896f62b-7715-48bc-9d42-b20eda6ef255</guid>
+            <pubDate>Thu, 28 Jan 2016 17:42:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
